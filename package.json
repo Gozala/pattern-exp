@@ -1,0 +1,29 @@
+{
+  "name": "pattern-exp",
+  "id": "pattern-exp",
+  "version": "0.0.1",
+  "description": "Utility for regexp creation out of string patterns",
+  "keywords": [ "pattern-exp" ],
+  "author": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
+  "homepage": "https://github.com/Gozala/pattern-exp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gozala/pattern-exp.git",
+    "web": "https://github.com/Gozala/pattern-exp"
+  },
+  "bugs": {
+    "url": "http://github.com/Gozala/pattern-exp/issues/"
+  },
+  "devDependencies": {
+    "test": ">=0.4.4",
+    "repl-utils": ">=1.0.0"
+  },
+  "scripts": {
+    "test": "node test/test-all.js",
+    "repl": "node node_modules/repl-utils"
+  },
+  "licenses": [{
+    "type" : "MIT",
+    "url" : "https://github.com/Gozala/pattern-exp/License.md"
+  }]
+}
