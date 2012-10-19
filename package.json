@@ -18,6 +18,7 @@
     "test": ">=0.4.4",
     "repl-utils": ">=1.0.0"
   },
+  "main": "./pattern-exp.js",
   "scripts": {
     "test": "node test/test-all.js",
     "repl": "node node_modules/repl-utils"
