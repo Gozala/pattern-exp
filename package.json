@@ -1,7 +1,7 @@
 {
   "name": "pattern-exp",
   "id": "pattern-exp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utility for regexp creation out of string patterns",
   "keywords": [ "pattern-exp" ],
   "author": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
